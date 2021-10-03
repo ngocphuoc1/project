@@ -1,2 +1,3 @@
 hello git abc
-thêm dòng 2
+máy 1 thêm dòng 2
+máy 2 đây
